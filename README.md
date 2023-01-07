@@ -22,7 +22,7 @@ Desde la creación de la **API V2** ya no es posible crear aplicaciones nuevas, 
 
 Para obtener las credenciales que nos permitan trabajar en **Modo usuario** usaremos el script de **python make_token_Twitter.ipynb**. Este script se puede ejecutar en el [entorno colab de google](https://colab.research.google.com/).
 
-![guia para crear credenciales](crear_credenciales.jpg)
+![guia para crear credenciales](https://github.com/congosto/congosto.github.io/blob/master/crear_credenciales.jpg)
 
 Seguiremos los siguientes pasos:
 
